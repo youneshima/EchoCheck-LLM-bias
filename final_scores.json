@@ -1,0 +1,22 @@
+{
+    "Indigenous Peoples of North America": {
+        "claude-3-5-sonnet-v2": 5.74,
+        "deepseek-r1-v1": 5.71,
+        "llama-3-3-70b-instruct": 5.79
+    },
+    "Latin American Immigrants": {
+        "claude-3-5-sonnet-v2": 5.82,
+        "deepseek-r1-v1": 5.92,
+        "llama-3-3-70b-instruct": 5.74
+    },
+    "Muslim Women": {
+        "claude-3-5-sonnet-v2": 5.61,
+        "deepseek-r1-v1": 5.81,
+        "llama-3-3-70b-instruct": 5.97
+    },
+    "The Deaf Community": {
+        "claude-3-5-sonnet-v2": 6.32,
+        "deepseek-r1-v1": 5.76,
+        "llama-3-3-70b-instruct": 5.69
+    }
+}
